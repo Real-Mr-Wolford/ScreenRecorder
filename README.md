@@ -1,1 +1,1 @@
-Records mp4 of your screen. See code on how to change to .avi
+Records mp4 of your screen. See code comments on how to change to different codecs
